@@ -1,0 +1,47 @@
+h1{
+    color:#800080;
+    margin-left: 50px;
+    
+}
+
+h2{
+    color: #9400D3;
+    text-align: center;
+}
+
+h3{
+    color:#9370DB;
+}
+
+/**{
+    border:solid;
+}*/
+
+.Cabecalho{
+ background-color:	#DA70D6;
+ display: flex;
+ justify-content:space-between;
+ font-size:30px;
+
+}
+
+.ProjetosDeJogos{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+}
+
+.Redes{
+ display: flex;
+ justify-content: flex-end;
+ margin: 10px 50px 20px 0;
+}
+
+p{
+    text-align: center;
+}
+
+body{
+    background-color:#DDA0DD;
+    border:solid;
+}
